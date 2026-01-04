@@ -83,7 +83,7 @@ const Layout: React.FC<LayoutProps> = ({ children, activeTab, setActiveTab, onLo
 
           <div className="mt-auto space-y-2 pt-4 border-t border-[#27272A]">
             <a
-              href="https://wa.me/5500000000000"
+              href="https://wa.me/5562986216877"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full flex items-center px-4 py-3 text-sm font-bold text-[#10B981] bg-[#10B981]/10 border border-[#10B981]/10 rounded-xl hover:bg-[#10B981]/20 transition-all"
